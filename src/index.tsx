@@ -10,7 +10,8 @@ const clickOptions: CsprClickInitOptions = {
 	appName: 'CSPR.app',
 	contentMode: CONTENT_MODE.IFRAME,
 	providers: ['casper-wallet', 'ledger', 'walletconnect', 'casperdash', 'metamask-snap', 'torus-wallet', 'casper-signer'],
-	appId: 'csprclick-template',    
+	appId: 'walletconnect-demo',    
+	csprclickHost: 'https://cspr-click-accounts.dev.make.services',
     walletConnect: {
         logger: 'debug',
         relayUrl: 'wss://relay.walletconnect.com',
