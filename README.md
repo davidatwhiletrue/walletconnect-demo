@@ -11,3 +11,9 @@ npm start
 ```
 
 to start developing.
+
+## Build for DEV env
+
+```bash
+PUBLIC_URL=/walletconnect-demo npm run build;
+```

@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/walletconnect-demo/static/css/main.adca0890.css",
-    "main.js": "/walletconnect-demo/static/js/main.b1bceef1.js",
+    "main.js": "/walletconnect-demo/static/js/main.4db2c037.js",
     "static/media/bg-desktop-full.jpg": "/walletconnect-demo/static/media/bg-desktop-full.72f570c500005afc21a1.jpg",
     "static/media/bg-mobile-full.jpg": "/walletconnect-demo/static/media/bg-mobile-full.26db32ae2cf0118ede32.jpg",
     "static/media/account-menu.jpg": "/walletconnect-demo/static/media/account-menu.16443edabb2e0866daa5.jpg",
     "index.html": "/walletconnect-demo/index.html",
     "static/media/logo.svg": "/walletconnect-demo/static/media/logo.09f5d4a4482ee4018d3bb994a45e7fdf.svg",
     "main.adca0890.css.map": "/walletconnect-demo/static/css/main.adca0890.css.map",
-    "main.b1bceef1.js.map": "/walletconnect-demo/static/js/main.b1bceef1.js.map"
+    "main.4db2c037.js.map": "/walletconnect-demo/static/js/main.4db2c037.js.map"
   },
   "entrypoints": [
     "static/css/main.adca0890.css",
-    "static/js/main.b1bceef1.js"
+    "static/js/main.4db2c037.js"
   ]
 }
