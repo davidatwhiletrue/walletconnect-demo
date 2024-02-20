@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/walletconnect-demo/static/css/main.adca0890.css",
-    "main.js": "/walletconnect-demo/static/js/main.22890b49.js",
-    "static/media/bg-desktop-full.jpg": "/walletconnect-demo/static/media/bg-desktop-full.72f570c500005afc21a1.jpg",
-    "static/media/bg-mobile-full.jpg": "/walletconnect-demo/static/media/bg-mobile-full.26db32ae2cf0118ede32.jpg",
-    "static/media/account-menu.jpg": "/walletconnect-demo/static/media/account-menu.16443edabb2e0866daa5.jpg",
-    "index.html": "/walletconnect-demo/index.html",
-    "static/media/logo.svg": "/walletconnect-demo/static/media/logo.09f5d4a4482ee4018d3bb994a45e7fdf.svg",
-    "main.adca0890.css.map": "/walletconnect-demo/static/css/main.adca0890.css.map",
-    "main.22890b49.js.map": "/walletconnect-demo/static/js/main.22890b49.js.map"
+    "main.css": "/static/css/main.adca0890.css",
+    "main.js": "/static/js/main.855f9975.js",
+    "static/media/bg-desktop-full.jpg": "/static/media/bg-desktop-full.72f570c500005afc21a1.jpg",
+    "static/media/bg-mobile-full.jpg": "/static/media/bg-mobile-full.26db32ae2cf0118ede32.jpg",
+    "static/media/account-menu.jpg": "/static/media/account-menu.16443edabb2e0866daa5.jpg",
+    "index.html": "/index.html",
+    "static/media/logo.svg": "/static/media/logo.09f5d4a4482ee4018d3bb994a45e7fdf.svg",
+    "main.adca0890.css.map": "/static/css/main.adca0890.css.map",
+    "main.855f9975.js.map": "/static/js/main.855f9975.js.map"
   },
   "entrypoints": [
     "static/css/main.adca0890.css",
-    "static/js/main.22890b49.js"
+    "static/js/main.855f9975.js"
   ]
 }

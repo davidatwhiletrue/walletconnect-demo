@@ -12,7 +12,9 @@ const clickOptions: CsprClickInitOptions = {
 	providers: ['casper-wallet', 'ledger', 'walletconnect', 'casperdash', 'metamask-snap', 'torus-wallet', 'casper-signer'],
 	appId: 'walletconnect-demo',    
 	csprclickHost: 'https://cspr-click-accounts.dev.make.services',
-    walletConnect: {
+	casperNode: 'https://cspr-click-accounts.dev.make.services/api/node-proxy/rpc',
+	// csprclickHost: 'http://localhost:8181',
+	walletConnect: {
         logger: 'debug',
         relayUrl: 'wss://relay.walletconnect.com',
         projectId: '6cdf3095d26e511f0126b484e219cc4d',
