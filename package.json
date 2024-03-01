@@ -3,12 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@make-software/csprclick-core-client": "^1.3.0",
-    "@make-software/csprclick-core-types": "^1.3.0",
-    "@make-software/csprclick-ui": "^1.3.0",
+    "@make-software/csprclick-core-client": "^1.4.0",
+    "@make-software/csprclick-core-types": "^1.4.0",
+    "@make-software/csprclick-ui": "^1.4.0",
     "@metamask/safe-event-emitter": "^2.0.0",
     "casper-js-sdk": "^2.15.3",
-    "prismjs": "^1.29.0"
+    "prismjs": "^1.29.0",
+    "styled-components": "5.3.9"
   },
   "scripts": {
     "start": "react-app-rewired start",
