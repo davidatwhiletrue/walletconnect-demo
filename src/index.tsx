@@ -11,8 +11,8 @@ const clickOptions: CsprClickInitOptions = {
 	contentMode: CONTENT_MODE.IFRAME,
 	providers: ['casper-wallet', 'ledger', 'walletconnect', 'casperdash', 'metamask-snap', 'torus-wallet', 'casper-signer'],
 	appId: 'walletconnect-demo',    
-	csprclickHost: 'https://cspr-click-accounts.dev.make.services',
-	casperNode: 'https://cspr-click-accounts.dev.make.services/api/node-proxy/rpc',
+	//csprclickHost: 'https://cspr-click-accounts.dev.make.services',
+	//casperNode: 'https://cspr-click-accounts.dev.make.services/api/node-proxy/rpc',
 	// csprclickHost: 'http://localhost:8181',
 	walletConnect: {
         logger: 'debug',

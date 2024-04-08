@@ -38,7 +38,7 @@ export const BuyMeACoffee = () => {
 
 	const handleSignTransaction = async () => {
 		const sender = activeAccount?.public_key?.toLowerCase() || '';
-		const deploy = makeTransferDeploy(sender, recipientPk, '50' + '000000000', 'casper-test');
+		const deploy = makeTransferDeploy(sender, recipientPk, '50' + '000000000', window.csprclick.chainName || 'casper');
 		clickRef
 			?.send(deploy, sender)
 			.then((res: SendResult | undefined) => {
